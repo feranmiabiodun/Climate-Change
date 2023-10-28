@@ -1,4 +1,4 @@
-## Climate-Change-Sentiment-Classification
+## Climate Change Sentiment Classification
 
 #### Introduction
 
