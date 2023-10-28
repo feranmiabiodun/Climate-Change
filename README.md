@@ -1,4 +1,4 @@
-## Climate-Change-Sentiment-Analysis
+## Climate-Change-Sentiment-Classification
 
 #### Introduction
 
