@@ -12,6 +12,7 @@ In this classification machine learning project, our objective is to create a ro
 
 As a data scientist, I played a significant role in this project. My contributions include:
 
+- Preprocessing the data for a smoother analysis
 - Performing an extensive exploratory data analysis (EDA) to gain insights into the tweet dataset.
 - Utilizing Comet for version control, ensuring smooth collaboration and tracking model performance.
 - Facilitating seamless team collaboration through GitHub, promoting effective version management and code sharing.
