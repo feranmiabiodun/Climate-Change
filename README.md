@@ -14,8 +14,10 @@ As a data scientist, I played a significant role in this project. My contributio
 
 - Preprocessing the data for a smoother analysis
 - Performing an extensive exploratory data analysis (EDA) to gain insights into the tweet dataset.
+- Developing various models by training, validating and testing their performance, and selected the best one for deployment.
 - Utilizing Comet for version control, ensuring smooth collaboration and tracking model performance.
 - Facilitating seamless team collaboration through GitHub, promoting effective version management and code sharing.
+- Building the classification dashboard using Strealit App
 - Deploying the Streamlit app on AWS EC2, enabling the team to present the project's results effectively to stakeholders.
 
 #### Project Demo
