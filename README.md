@@ -22,8 +22,6 @@ As a data scientist, I played a significant role in this project. My contributio
 
 #### Project Demo
 
-![Video 1](https://youtu.be/iO6yFYPNPA0?si=SX4RY3Tmut51dkj0)
-
 [Here](https://youtu.be/iO6yFYPNPA0?si=SX4RY3Tmut51dkj0) is a video demonstration showcasing our project in action.
 
 #### Conclusion
