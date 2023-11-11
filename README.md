@@ -1,4 +1,4 @@
-![Image 1](image/hybrid.jpg)
+![Image 1](images/climate_change.jpg)
 
 #### Introduction
 
