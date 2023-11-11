@@ -1,4 +1,4 @@
-## Climate Change Sentiment Classification
+![Image 1](image/hybrid.jpg)
 
 #### Introduction
 
